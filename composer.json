@@ -1,0 +1,20 @@
+{
+    "name": "pragmatic-modules/jslayout-parser",
+    "description": "Lightweight PHP library that was created to make work with `$jsLayout` in Magento 2 less spaghetti, and more object-oriented.",
+    "type": "library",
+    "homepage": "https://rusin.work",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Peter Rusin",
+            "email": "peter@rusin.work",
+            "homepage": "https://rusin.work",
+            "role": "Senior Magento Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Pragmatic\\JsLayoutParser\\": ""
+        }
+    }
+}
